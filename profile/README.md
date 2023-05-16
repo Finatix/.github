@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img align='right' src='https://github.com/Finatix/.github/assets/114082164/7e355004-0fff-4da0-80b0-9e73123bdec8' width='200"'>
+<img align='right' src='https://github.com/Finatix/.github/assets/114082164/2c860ca0-9c66-44d8-8d98-0d365674141c' width='200"'>
 
 👨‍💻 Wer ist die Finatix?
 - Wir integrieren agile Werte - in der Projektarbeit und in der Firmenkultur.
@@ -16,7 +16,7 @@
 * Angular, TypeScript, JavaScript, HTML/CSS
 * Kubernetes, AWS, Terraform, Docker
 
-[//]: <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 ***
 
 Du hast Lust Teil unseres Teams zu werden? Bewirb dich einfach unter: https://finatix.de/karriere/
