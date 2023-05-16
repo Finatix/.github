@@ -1,22 +1,25 @@
 # Hi there 👋
 
+<img align='right' src='https://github.com/Finatix/.github/assets/114082164/b617e5b8-2b42-436f-b36c-bf0db863d345' width='200"'>
+
+👨‍💻 Wer ist die Finatix?
 - Wir integrieren agile Werte - in der Projektarbeit und in der Firmenkultur.
 - Lern- und Weiterbildungsmöglichkeiten sind das A&O unserer Arbeit.
 - Offene und ehrliche Kommunikation sind uns sehr wichtig.
 - Wir begegnen uns auf Augenhöhe - egal ob Praktikant oder Senior.
 - Mentoring und gute Einarbeitung gibt es bei uns nicht nur für Berufseinsteiger.
 
+<br/>
+
 💬 Programming Languages: 
-Java
-Spring Boot
-Kotlin
-TypeScript
-JavaScript
-HTML/CSS
+* Java, Spring Boot, Kotlin
+* Angular, TypeScript, JavaScript, HTML/CSS
+* Kubernetes, AWS, Terraform, Docker
 
 [//]: <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+***
 
-![Cute Simple Circle Arch Burger Restaurant Food Logo](https://github.com/Finatix/.github/assets/114082164/0e15aeed-f16c-42e7-82e6-4adf8ea130f9)
+Du hast Lust Teil unseres Teams zu werden? Bewirb dich einfach unter: https://finatix.de/karriere/
 
  **Connect with us**
 <p align="left">
@@ -27,7 +30,3 @@ HTML/CSS
 <img align="left" alt="Finatix LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </p>
-
-<br/>
-<br/>
-Du hast Lust Teil unseres Teams zu werden? Bewirb dich einfach unter: https://finatix.de/karriere/
