@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img align='right' src='https://github.com/Finatix/.github/assets/114082164/b617e5b8-2b42-436f-b36c-bf0db863d345' width='200"'>
+<img align='right' src='https://github.com/Finatix/.github/assets/114082164/7e355004-0fff-4da0-80b0-9e73123bdec8' width='200"'>
 
 👨‍💻 Wer ist die Finatix?
 - Wir integrieren agile Werte - in der Projektarbeit und in der Firmenkultur.
