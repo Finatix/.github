@@ -28,6 +28,6 @@ Du hast Lust Teil unseres Teams zu werden? Bewirb dich einfach unter: https://fi
 <img align="left" alt="Finatix Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>  
 <a href="https://www.linkedin.com/company/finatix-gmbh/">
-<img align="left" alt="Finatix LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<img align="left" alt="Finatix LinkedIN" width="28px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
 </a>
 </p>
