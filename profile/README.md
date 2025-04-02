@@ -16,8 +16,6 @@
 * Angular, TypeScript, JavaScript, HTML/CSS
 * Kubernetes, AWS, Terraform, Docker
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
-
 ***
 
 Du hast Lust Teil unseres Teams zu werden? Bewirb dich einfach unter: https://finatix.de/karriere/
